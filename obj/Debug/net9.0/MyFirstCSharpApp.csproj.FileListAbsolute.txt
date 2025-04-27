@@ -1,0 +1,14 @@
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/bin/Debug/net9.0/MyFirstCSharpApp
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/bin/Debug/net9.0/MyFirstCSharpApp.deps.json
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/bin/Debug/net9.0/MyFirstCSharpApp.runtimeconfig.json
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/bin/Debug/net9.0/MyFirstCSharpApp.dll
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/bin/Debug/net9.0/MyFirstCSharpApp.pdb
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/MyFirstCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/MyFirstCSharpApp.AssemblyInfoInputs.cache
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/MyFirstCSharpApp.AssemblyInfo.cs
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/MyFirstCSharpApp.csproj.CoreCompileInputs.cache
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/MyFirstCSharpApp.dll
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/refint/MyFirstCSharpApp.dll
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/MyFirstCSharpApp.pdb
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/MyFirstCSharpApp.genruntimeconfig.cache
+/Users/menakamaruthainar/Documents/Coding/Learning C#/MyFirstCSharpApp/obj/Debug/net9.0/ref/MyFirstCSharpApp.dll
